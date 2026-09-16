@@ -37,3 +37,4 @@ Criterios de aceptación:
 - Marcado issue #1 como in-progress: Inicializando el proyecto Laravel 13.x
 - Aplicada etiqueta "in-progress" a la issue #1 en GitHub
 - Feature completada: Proyecto Laravel 13.x inicializado con SQLite, dependencias instaladas, entorno configurado y migraciones ejecutadas
+- Issue #1 cerrada en GitHub con etiqueta "done"
