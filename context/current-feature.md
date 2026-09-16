@@ -31,3 +31,7 @@ Criterios de aceptación:
 - No se ha instalado Laravel Boost
 - No se han añadido dependencias adicionales que no sean necesarias para la instalación estándar de Laravel
 - Todos los cambios necesarios para inicializar el proyecto están registrados en el repositorio
+
+## Histórico
+
+- Marcado issue #1 como in-progress: Inicializando el proyecto Laravel 13.x
