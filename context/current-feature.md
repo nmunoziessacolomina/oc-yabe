@@ -39,3 +39,5 @@ Criterios de aceptación:
 - Feature completada: Proyecto Laravel 13.x inicializado con SQLite, dependencias instaladas, entorno configurado y migraciones ejecutadas
 - Issue #1 cerrada en GitHub con etiqueta "done"
 - PR creado: "Feature: Issue 1" (PR #2) para mergear la rama feature/issue-1 a main
+- PR #2 fusionado exitosamente a main
+- Rama feature/issue-1 eliminada local y remotamente después del merge
