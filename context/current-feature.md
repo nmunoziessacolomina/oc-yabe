@@ -35,3 +35,4 @@ Criterios de aceptación:
 ## Histórico
 
 - Marcado issue #1 como in-progress: Inicializando el proyecto Laravel 13.x
+- Aplicada etiqueta "in-progress" a la issue #1 en GitHub
