@@ -38,3 +38,4 @@ Criterios de aceptación:
 - Aplicada etiqueta "in-progress" a la issue #1 en GitHub
 - Feature completada: Proyecto Laravel 13.x inicializado con SQLite, dependencias instaladas, entorno configurado y migraciones ejecutadas
 - Issue #1 cerrada en GitHub con etiqueta "done"
+- PR creado: "Feature: Issue 1" (PR #2) para mergear la rama feature/issue-1 a main
