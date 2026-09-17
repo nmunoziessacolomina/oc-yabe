@@ -2,7 +2,7 @@
 
 ## Estructura
 
-- El descriptor es @context/current-feature.md.
+- El descriptor es `@context/current-feature.md`.
 - El nombre de la feature es el encabezado de primer nivel.
 - Contiene una sección `## Objetivos` que puede contener requisitos, requisitos técnicos, criterios de aceptación y otras subsecciones que se crean convenientes.
 - Contiene una sección `## Notas` que puede contener notas adicionales.
@@ -10,7 +10,7 @@
 
 ## Restricciones
 
-El histórico no se eliminará nunca. La única modificación posible es añadir entradas.
+- El histórico no se eliminará nunca. La única modificación posible es añadir entradas.
 
 ## Acciones previstas
 

@@ -9,6 +9,10 @@ Leer los siguientes ficheros para obtener contexto completo del proyecto:
 - @context/feature-workflow.md
 - @context/coding-conventions.md
 
+## Características Especiales del Workflow de Features
+
+Cuando la tarea implique iniciar, implementar, verificar o finalizar una feature, trabajar con un GitHub Issue, o modificar `context/current-feature.md`, el agente debe cargar automáticamente el skill `feature-workflow` para acceder al workflow estructurado y los comandos especializados.
+
 ## GitHub
 
 Al crear o modificar issues o pull requests:
