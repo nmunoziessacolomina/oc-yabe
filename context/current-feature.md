@@ -46,3 +46,7 @@ Estados GitHub Issues:
 - PR #2 fusionado exitosamente a main
 - Rama feature/issue-1 eliminada local y remotamente después del merge
 - Marcado issue #3 como in-progress: Definiendo comandos y skills para workflow de features
+- Implementados skills feature-workflow y pull-request
+- Implementados commands start-feature, create-pr y finish-feature
+- Actualizado AGENTS.md para carga condicional del skill feature-workflow
+- Creado context/current-feature-file-spec.md con especificación del descriptor
