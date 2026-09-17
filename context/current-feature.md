@@ -50,3 +50,5 @@ Estados GitHub Issues:
 - Implementados commands start-feature, create-pr y finish-feature
 - Actualizado AGENTS.md para carga condicional del skill feature-workflow
 - Creado context/current-feature-file-spec.md con especificación del descriptor
+- Feature completada: Todos los skills y commands implementados según especificación
+- Issue #3 cerrada en GitHub con etiqueta "done"
