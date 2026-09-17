@@ -45,3 +45,4 @@ Estados GitHub Issues:
 - PR creado: "Feature: Issue 1" (PR #2) para mergear la rama feature/issue-1 a main
 - PR #2 fusionado exitosamente a main
 - Rama feature/issue-1 eliminada local y remotamente después del merge
+- Marcado issue #3 como in-progress: Definiendo comandos y skills para workflow de features
